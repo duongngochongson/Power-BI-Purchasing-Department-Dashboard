@@ -13,7 +13,7 @@ The project aims to visualize overall and in-depth information on the purchasing
 
 **Platform**: Microsoft Power BI for desktop
 
-**Notable Techniques**: Design thinking, clean and transform data in Power Query, develop models, and employ DAX.
+**Main Techniques**: Design thinking, clean and transform data in Power Query, develop models, and employ DAX.
 
 **Context**: AdventureWorks database supports standard online transaction processing scenarios for a fictitious bicycle manufacturer. The purchasing department will be responsible for purchasing goods, raw materials, and semi-finished products for production. Management expects that the ordered goods are sufficient for sales, on time, and at optimal import prices.
 
