@@ -11,7 +11,7 @@ The project aims to visualize overall and in-depth information on the purchasing
   
 ## Overall
 
-**Platform**: Microsoft Power BI for desktop
+**Platform**: Microsoft Power BI for desktop.
 
 **Main Techniques**: Design thinking, clean and transform data in Power Query, develop models, and employ DAX.
 
@@ -87,14 +87,12 @@ Visual 2: Vendor Performance Detail
 
 ## How to Use Dashboard
 
-Below is workflow suggestion
+Below is workflow suggestion:
 
-**Access and Review Summary:** Start by looking at the Overview tab to check key stats like error-free orders, total costs, extra fees, and the number of active vendors. This gives you a quick view of overall vendor performance and spending.
-
-**Analyze Trends and Rankings:** Use the trend charts to spot patterns or problems, like a drop in reliability or rising costs. Vendor rankings help you see which vendors are performing well and which need attention.
-
-**Select and Analyze Vendor:** Switch to the Vendor tab to focus on a specific vendor. View detailed metrics like non-error orders, extra fees, and trends, providing a closer look at their performance and cost-effectiveness.
-
-**Examine Vendor Details:** Check product-specific data such as pricing, fees, taxes, and freight costs. This gives you a complete view of each vendor’s cost structure and helps with decision-making.
-
-**Generate Reports and Take Action:** Use the insights to create reports, share findings, and make informed decisions, like improving vendor relationships or renegotiating contracts.
+| **Action**                      | **Description**                                                                                      |
+|---------------------------------|------------------------------------------------------------------------------------------------------|
+| Access and Review Summary       | Start by looking at the Overview tab to check key stats like error-free orders, total costs, extra fees, and the number of active vendors. This gives you a quick view of overall vendor performance and spending. |
+| Analyze Trends and Rankings     | Use the trend charts to spot patterns or problems, like a drop in reliability or rising costs. Vendor rankings help you see which vendors are performing well and which need attention. |
+| Select and Analyze Vendor       | Switch to the Vendor tab to focus on a specific vendor. View detailed metrics like non-error orders, extra fees, and trends, providing a closer look at their performance and cost-effectiveness. |
+| Examine Vendor Details          | Check product-specific data such as pricing, fees, taxes, and freight costs. This gives you a complete view of each vendor’s cost structure and helps with decision-making. |
+| Generate Reports and Take Action| Use the insights to create reports, share findings, and make informed decisions, like improving vendor relationships or renegotiating contracts. |
