@@ -17,7 +17,7 @@ The project aims to visualize overall and in-depth information on the purchasing
 
 **Context**: AdventureWorks database supports standard online transaction processing scenarios for a fictitious bicycle manufacturer. The purchasing department will be responsible for purchasing goods, raw materials, and semi-finished products for production. Management expects that the ordered goods are sufficient for sales, on time, and at optimal import prices.
 
-**Goal**: Based on the context, I will create dashboard for vendor performance, including 2 visuals: an overview and a detailed information. To achievie it, I apply design thinking to identify key metrics, then pull relevant data from Google BigQuery.
+**Goal**: Based on the context, I will create an **operational dashboard** for vendor performance, including 2 visuals: an overview and a detailed information. To achievie it, I apply design thinking to identify key metrics, then pull relevant data from Google BigQuery.
   
 **Links to data dict:** https://dataedo.com/download/AdventureWorks.pdf
 
